@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @agderegibus
-- 👀 I’m interested in Quant Analysis
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me: agderegibus@gmail.com
+
